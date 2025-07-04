@@ -1,5 +1,3 @@
-# salah-alsilevanai
-
 ## 👨‍💻 My Projects
 
 ### 🔹 [GitHub Repo Info Tool](https://salah-alsilevanai.github.io/github-repo-info-tool/)
