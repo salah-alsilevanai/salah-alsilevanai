@@ -8,3 +8,6 @@ A fun puzzle game built with HTML, CSS, and JavaScript.
 
 ### 🔹 [Cat Pics](https://salah-alsilevanai.github.io/cat_pics/)
 A gallery of random cat images using an API.
+
+### 🔹 [Personal Website](https://salah.alsilevanai.com)
+Personal website and portfolio showcasing my projects and skills
